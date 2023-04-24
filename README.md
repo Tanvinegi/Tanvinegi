@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Tanvinegi
 - 👀 I’m interested in programming and designing
-- 🌱 I’m currently learning python
+- 🌱 I’m currently exploring angular more
 - 📫 How to reach me ...my email id is tanvinegi57@gmail.com
 
 <!---
