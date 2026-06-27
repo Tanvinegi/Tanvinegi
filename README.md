@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Tanvinegi
 - 👀 I’m interested in web development and making beautiful web applications.
-- 🌱 I’m currently working in react js and angular. 
+- 🌱 I’m currently working in react js. 
 - 📫 How to reach me ...my email id is tanvinegi57@gmail.com
 
 <!---
