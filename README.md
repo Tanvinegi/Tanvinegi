@@ -1,6 +1,6 @@
 # Hi there, I'm Tanvi Negi 👋
 
-### Frontend Engineer | React.js Developer | Next.js Enthusiast
+### Frontend Engineer | React.js Developer | Next.js Developer | React Native Enthusiast
 
 💻 Frontend Developer with **3+ years of experience** building scalable, responsive, and user-friendly web applications.
 
